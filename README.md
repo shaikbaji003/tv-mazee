@@ -1,1 +1,1 @@
-# tv-mazee
+# tv-maze
